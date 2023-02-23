@@ -1,0 +1,29 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+
+# Dependências de pacotes gerenciados pelo pip
+pip-log.txt
+pip-delete-this-directory.txt
+bin/
+include/
+lib/
+local/
+
+# Arquivos de ambiente virtual do Python
+pyvenv.cfg
+venv/
+env/
+ENV/
+
+# Logs de erros e arquivos temporários
+*.log
+*.pot
+*.pyc
+*.swp
+._*
+~*
+
+# Arquivos de cache
+.mypy_cache/
+.pytest_cache/
